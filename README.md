@@ -1,0 +1,1 @@
+**The goal of the project was to evaluate and compare the financial performance, efficiency, and stability of three publicly traded companies — LPP, Orlen, and CD Projekt — using quantitative methods such as ratio analysis, regression, correlation, benchmarking, sensitivity analysis, and standard deviation analysis.**
